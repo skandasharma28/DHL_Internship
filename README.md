@@ -1,2 +1,3 @@
 # DHL_Internship
-Files from DHL summer 2024 internship
+Includes different files from DHL summer 2024 internship.
+
